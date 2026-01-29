@@ -5,6 +5,34 @@
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nestjs,nodejs,postgresql,mysql,docker,git" />
+</p>
+
+**Frontend**
+- React, Next.js
+- TypeScript, JavaScript
+- Tailwind CSS, Mantine UI
+- Drag & Drop interfaces (`@dnd-kit`)
+
+**Backend**
+- NestJS, Node.js
+- RESTful API design
+- TypeORM
+
+**Databases**
+- PostgreSQL, MySQL
+
+**Tools & Practices**
+- Git & GitHub
+- Docker
+- ESLint / Prettier
+- Internationalization (i18n)
+
+---
+
 ## 👩‍💻 About Me
 
 I’m a Full-Stack Developer focused on building **scalable, maintainable web applications** with clean architecture and thoughtful user experiences.
@@ -21,7 +49,6 @@ I enjoy refactoring, optimizing workflows, and turning complex requirements into
 
 ## 📊 GitHub Statistics
 
-<!-- Profile overview (full width) -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huong1234h&theme=default"
   width="100%"
@@ -29,7 +56,6 @@ I enjoy refactoring, optimizing workflows, and turning complex requirements into
 
 <br />
 
-<!-- General stats & productivity -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huong1234h&theme=default"
@@ -43,7 +69,6 @@ I enjoy refactoring, optimizing workflows, and turning complex requirements into
 
 <br />
 
-<!-- Language statistics -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huong1234h&theme=default"
@@ -65,31 +90,6 @@ I enjoy refactoring, optimizing workflows, and turning complex requirements into
     width="70%"
   />
 </p>
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-- React, Next.js
-- TypeScript, JavaScript
-- Tailwind CSS, Mantine UI
-- Drag & Drop interfaces (`@dnd-kit`)
-
-**Backend**
-- NestJS, Node.js
-- RESTful API design
-- TypeORM
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Tools & Practices**
-- Git & GitHub
-- Docker
-- ESLint / Prettier
-- Internationalization (i18n)
 
 ---
 
