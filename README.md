@@ -11,28 +11,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nestjs,nodejs,postgresql,mysql,docker,git" />
 </p>
 
-**Frontend**
-- React, Next.js
-- TypeScript, JavaScript
-- Tailwind CSS, Mantine UI
-- Drag & Drop interfaces (`@dnd-kit`)
-
-**Backend**
-- NestJS, Node.js
-- RESTful API design
-- TypeORM
-
-**Databases**
-- PostgreSQL, MySQL
-
-**Tools & Practices**
-- Git & GitHub
-- Docker
-- ESLint / Prettier
-- Internationalization (i18n)
-
----
-
 ## 👩‍💻 About Me
 
 I’m a Full-Stack Developer focused on building **scalable, maintainable web applications** with clean architecture and thoughtful user experiences.
